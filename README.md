@@ -1,2 +1,2 @@
-# tournament-util-api
-Tournament Utility Api
+# tournament-org-api
+Tournament Organizer Api
